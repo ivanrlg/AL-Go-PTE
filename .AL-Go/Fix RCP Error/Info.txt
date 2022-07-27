@@ -1,0 +1,5 @@
+https://www.drivereasy.com/knowledge/rpc-server-is-unavailable-error-on-windows-10-fixed/
+
+On Control Panel, search windows firewall. And then click Allow an app through Windows Firewall below Windows Firewall.
+
+Scroll down to find Remote Assistance. Ensure its communication is enabled (All the boxes of this item are ticked).
